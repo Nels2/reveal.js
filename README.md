@@ -1481,6 +1481,8 @@ If you want to include math inside of a presentation written in Markdown you nee
 `$$ J(\theta_0,\theta_1) = \sum_{i=0} $$`
 ```
 
+[![Run on Repl.it](https://repl.it/badge/github/Nels2/reveal.js)](https://repl.it/github/Nels2/reveal.js) 
+
 ## License
 
 MIT licensed
